@@ -1,0 +1,13 @@
+.section {
+  display: flex;
+  min-height: 100vh;
+  min-height: 100svh;
+  border: none;
+  overflow-x: auto;
+  & .section__left {
+    width: 10%;
+  }
+}
+body {
+  background-color: var(--color-beige);
+}

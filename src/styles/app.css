@@ -1,0 +1,20 @@
+@import url("./variables/root.css");
+@import url("./layout/section.css");
+@import url("./components/list.css");
+@import url("./reset/reset.css");
+@import url("./layout/top-section.css");
+@import url("./variables/fonts.css");
+@import url("./layout/section-overlay.css");
+@import url("./layout/hero.css");
+@import url("./components/pointer.css");
+@import url("./layout/mid-section.css");
+@import url("./layout/green.css");
+@import url("./layout/orange.css");
+@import url("./layout/contact.css");
+@import url("./layout/overlay.css");
+@import url("./layout/hover.css");
+h2,
+h1,
+span {
+  font-family: var(--canela-light);
+}

@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "canela";
+  src: url("/public/assets/fonts/Canela Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "canela";
+  src: url("/public/assets/fonts/Canela Light.woff2") format("woff2");
+  font-weight: 700;
+  font-style: light;
+}
+
+@font-face {
+  font-family: "canela";
+  src: url("/public/assets/fonts/Canela Light Italic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "akzidenz";
+  src: url("/public/assets/fonts/AkzidenzGrotesk Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  /*Fonts*/
+  --canela-light: "canela", normal;
+  --canela-light-italic: "canela", italic;
+  --canela-regular: "canela", normal;
+  --akzidenz-regular: "akzidenz", normal;
+  /*Fonts*/
+
+  /*Hoofdkleuren*/
+  --color-beige: #f8f6f1;
+  --color-dark: #1b1b1b;
+  --color-blue: #082b9d;
+  --color-darkgreen: #0d4135;
+  --color-lightgreen: #8acdb8;
+  --color-brown: #a2543d;
+  --color-orange: #f4b63e;
+  --color-lightpink: #f7d1ba;
+  --color-light: #ffffff;
+  --transition-darkblue: #082b9d;
+  --transition-darkbrown: #a2543d;
+  --transition-lightpink: #f7d1ba;
+  --transition-brown: #975e1a;
+  --transition-yellow: #e7b46c;
+  --transition-darkgreen: #43503f;
+  --transition-green: #679678;
+  --transition-navyblue: #44598b;
+  --transition-cyan: #8aaeca;
+  --transition-purplered: #622e3d;
+  --transition-pink: #ce8b9f;
+  --transition-darkerbrown: #99451c;
+  --transition-orange: #d37e55;
+  /*Hoofdkleuren*/
+
+  /*Transition colors */
+
+  /* Transition colors */
+
+  /*sizes*/
+  --lists: 0.58rem;
+  --lopende-teksten: 1.25rem;
+  --quotes: 1.3rem;
+  --titel-mobile: 2.5rem;
+  --minimal-title: 4.25rem;
+  --maximal-title: 7rem;
+  --minimal-display: 12rem;
+  --maximal-display: 14.5rem;
+
+  /*sizes*/
+}

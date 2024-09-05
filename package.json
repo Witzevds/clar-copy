@@ -1,0 +1,21 @@
+{
+  "name": "gsap-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/scripts/app.js --bundle --outfile=build/app.js",
+    "watch": "esbuild src/scripts/app.js --bundle --outdir=build --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lottiefiles/lottie-player": "^2.0.4",
+    "gsap": "^3.12.5",
+    "lottie-web": "^5.12.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.21.2"
+  },
+  "description": ""
+}
