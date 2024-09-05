@@ -1,26 +1,26 @@
 @font-face {
   font-family: "canela";
-  src: url("/public/assets/fonts/Canela Regular.woff2") format("woff2");
+  src: url("/public/assets/fonts/Canela-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "canela";
-  src: url("/public/assets/fonts/Canela Light.woff2") format("woff2");
+  src: url("/public/assets/fonts/Canela-Light.woff2") format("woff2");
   font-weight: 700;
   font-style: light;
 }
 
 @font-face {
   font-family: "canela";
-  src: url("/public/assets/fonts/Canela Light Italic.woff2") format("woff2");
+  src: url("/public/assets/fonts/Canela-Light-Italic.woff2") format("woff2");
   font-weight: 700;
   font-style: italic;
 }
 
 @font-face {
   font-family: "akzidenz";
-  src: url("/public/assets/fonts/AkzidenzGrotesk Regular.woff2") format("woff2");
+  src: url("/public/assets/fonts/AkzidenzGrotesk-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
